@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about the world of software development and constantly looking to learn and grow. With solid knowledge in technologies such as Java, SpringBoot, HTML5, CSS3, JavaScript, SQL and MySQL databases. My experience includes hands-on projects where I have applied this knowledge to create functional and engaging web applications.
+Passionate about the world of software development and in constant search of learning and growth, I have solid knowledge in different technologies such as Java, Spring Boot, JavaScript and SQL databases. In addition, I have experience in version management with Git and GitHub. As a web developer, I stand out for my ability to collaborate effectively in development teams. I have applied my skills in practical projects, creating functional and attractive web applications. My commitment to quality and innovation allows me to contribute significantly to any project, ensuring outstanding results and smooth development.
 
 
 ## 🌐 Socials:
